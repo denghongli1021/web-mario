@@ -1,5 +1,4 @@
-# Software Studio 2024 Spring Assignment 2
-## Web Mario
+# Web Mario
 
 This is "2024 Spring CS241002 Software Studio" course project at National Tsing Hua University (NTHU)
 
