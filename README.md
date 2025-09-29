@@ -1,6 +1,8 @@
 # Software Studio 2024 Spring Assignment 2
+## Web Mario
 
-## Student ID : 111062107 Name : 鄧弘利
+This is "2024 Spring CS241002 Software Studio" course project at National Tsing Hua University (NTHU)
+
 
 ### Scoring
 
