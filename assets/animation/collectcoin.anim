@@ -1,0 +1,37 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "collectcoin",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 1.0166666666666666,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "7b1e6773-83bf-4cb4-a203-a2c0034c1b8b"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "f2f7fbb7-3f23-47ac-9547-681ff4f8362a"
+            }
+          },
+          {
+            "frame": 1,
+            "value": {
+              "__uuid__": "0d901a28-fc1e-40b0-9035-fdd9e18d5a32"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

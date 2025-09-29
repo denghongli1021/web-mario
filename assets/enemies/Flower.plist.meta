@@ -1,0 +1,59 @@
+{
+  "ver": "1.2.6",
+  "uuid": "6ce9ab9f-4fc8-48e1-aa82-1811a8a47745",
+  "importer": "asset",
+  "rawTextureUuid": "54e776a5-797f-48f5-b759-1a2ff0cab70e",
+  "size": {
+    "width": 22,
+    "height": 72
+  },
+  "type": "Texture Packer",
+  "subMetas": {
+    "flower_0.png": {
+      "ver": "1.0.6",
+      "uuid": "c3e27ecd-6e40-4a77-b554-0f08adf55d2f",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "54e776a5-797f-48f5-b759-1a2ff0cab70e",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 20,
+      "height": 34,
+      "rawWidth": 20,
+      "rawHeight": 34,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "spriteType": "normal",
+      "subMetas": {}
+    },
+    "flower_1.png": {
+      "ver": "1.0.6",
+      "uuid": "3e88eaeb-8948-4db7-b11c-5c3c3ff225f7",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "54e776a5-797f-48f5-b759-1a2ff0cab70e",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 37,
+      "width": 20,
+      "height": 34,
+      "rawWidth": 20,
+      "rawHeight": 34,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "spriteType": "normal",
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "boxwhichcancrash",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.6833333333333333,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "9b93073e-e3b2-4423-89d0-9bc974c6cf3f"
+            }
+          },
+          {
+            "frame": 0.16666666666666666,
+            "value": {
+              "__uuid__": "a971013a-5061-466e-89fd-6f8e09eaea77"
+            }
+          },
+          {
+            "frame": 0.3333333333333333,
+            "value": {
+              "__uuid__": "62b51873-b985-444b-9adb-9647d7874362"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "6dd03dfa-6ce9-4469-b96f-af58e9258424"
+            }
+          },
+          {
+            "frame": 0.6666666666666666,
+            "value": {
+              "__uuid__": "46b1d86a-59bc-4b4c-8566-d15d0d7f20ca"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}
