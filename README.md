@@ -27,19 +27,19 @@
 1. **World map:** 
    - **Description:** 我有兩張地圖，使用者必須要先通過第一關才可以進入第二關，在stage的時候才會有關卡2的按鈕。
      - 第一張地圖如下
-     ![1_1](image.png)
-     ![1_2](image-1.png)
-     ![1_3](image-2.png)
+     ![1_1](ReadmeSrc/image.png)
+     ![1_2](ReadmeSrc/image-1.png)
+     ![1_3](ReadmeSrc/image-2.png)
      - 第二張地圖如下
-     ![2_1](image-3.png)
-     ![2_2](image-4.png)
-     ![2_3](image-5.png)
+     ![2_1](ReadmeSrc/image-3.png)
+     ![2_2](ReadmeSrc/image-4.png)
+     ![2_3](ReadmeSrc/image-5.png)
    - **Features:**
      - 地圖中物品可受重力影響，包括玩家。且玩家在接觸到場景中物體時或是enemy會發生碰撞。下面這張圖顯示的就是當玩家跑的時候碰撞到物體，不會穿透。
-     ![player_collide_with_objects](image-6.png)
+     ![player_collide_with_objects](ReadmeSrc/image-6.png)
      - 背景還有camera都會隨著玩家移動，而跟著移動。
-     ![initialize_position](image-7.png)
-     ![forward](image-8.png)
+     ![initialize_position](ReadmeSrc/image-7.png)
+     ![forward](ReadmeSrc/image-8.png)
      - 有兩種地圖
 
 2. **Player**
@@ -94,7 +94,7 @@
 2. **Leaderboard**
     - **Description:**
        - 這裡會顯示歷史分數最高的五個紀錄，分別顯示紀錄者的email，分數，還有完成時間。
-       ![leaderboard](image-9.png)
+       ![leaderboard](ReadmeSrc/image-9.png)
     <!-- - **Features:**  -->
 
 # Firebase page link (if you deploy)
